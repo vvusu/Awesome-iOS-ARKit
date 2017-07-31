@@ -122,6 +122,11 @@ ARKit framework demo for our article
     <img src="https://camo.githubusercontent.com/40afbf1c0922a87a9b16936f0b3bee71c6cc773f/68747470733a2f2f7768697465736d6974682d776562736974652e73332e616d617a6f6e6177732e636f6d2f323031372f4a756c2f61726b69745f64656d6f5f796f75747562652d313530303536353039323131362e706e67" style="zoom:50%" align=left/>
 </p>
 
+#### [hanleyweng/CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit)
+Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML.
+
+![](https://github.com/hanleyweng/CoreML-in-ARKit/raw/master/post-media/giphy.gif)
+
 #### [alunbestor/Boxify](https://github.com/alunbestor/Boxify)
 An ARKit box-drawing demo.
 
