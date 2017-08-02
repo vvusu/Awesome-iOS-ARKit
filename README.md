@@ -14,6 +14,12 @@ iOS ARKit Demos
 #### ARKit Inter-dimensional Portal by @nedd. Music by The SAME.
 <iframe width="500" height="375" src="https://www.youtube.com/embed/rIPfpGCxONQ" frameborder="0" allowfullscreen></iframe>
 
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
+      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
+</video>
+    
 ## Projects
 #### [ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) 
 Combines the high accuracy of AR with the scale of GPS data.
