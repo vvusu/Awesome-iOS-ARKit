@@ -8,7 +8,7 @@ iOS ARKit Demos
 
 ## Youtube
 #### Augmented Reality’s A-ha Moment by Chip Sineni @ Trixi Studios
-[![Watch the demo](./youtube/youtube_demo1.jpg)](https://www.youtube.com/embed/ZBdRAdSosv4)
+[![Watch the demo](./youtube/youtube_demo1.jpg)](https://www.youtube.com/watch?v=ZBdRAdSosv4&feature=player_embedded)
 
 #### ARKit Inter-dimensional Portal by @nedd. Music by The SAME.
 [![Watch the demo](./youtube/youtube_demo2.jpg)](https://www.youtube.com/embed/rIPfpGCxONQ)
