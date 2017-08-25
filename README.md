@@ -121,6 +121,11 @@ An ARKit box-drawing demo.
 #### [artemnovichkov/iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)
 👨🏻‍💻 Examples of new iOS 11 APIs
 
+#### [handsomecode/arkit-shell-game](https://github.com/handsomecode/arkit-shell-game)
+Shell Game built with ARKit and SceneKit.
+
+![ARKit Shell Game Demo](https://user-images.githubusercontent.com/2081318/29219707-a1628db8-7eda-11e7-8836-fc50799b8309.gif)
+
 ## Developer
 #### [Augmented Reality for iOS - WWDC 2017](https://developer.apple.com/videos/play/wwdc2017/602/)
 
